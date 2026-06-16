@@ -2,10 +2,12 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-      {
-        "id": "0.0.2-beta",
+   {
+        "id": "1.0.0",
+        "releasedAt": 209384093820,
             "downloads": {
                 "curseforge": "https://curseforge.com/",
             }
+    }
   ]
 }
