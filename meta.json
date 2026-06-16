@@ -2,6 +2,9 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+     {
+      "version": "0.0.2-alpha",
+      "changelog": "alpha build"
+    }
   ]
 }
