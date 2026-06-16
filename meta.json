@@ -3,7 +3,7 @@
   "hotfixesFormat": null,
   "versions": [
      {
-      "version": "0.0.2-alpha",
+      "currentVersion": "0.0.2",
       "changelog": "alpha build"
     }
   ]
