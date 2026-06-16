@@ -2,9 +2,10 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-     {
-      "currentVersion": "0.0.2",
-      "changelog": "alpha build"
-    }
+      {
+        "id": "0.0.2-beta",
+            "downloads": {
+                "curseforge": "https://curseforge.com/",
+            }
   ]
 }
